@@ -1,0 +1,4 @@
+﻿  №1.c
+C:\Users\Ярослав\Desktop\Новая папка\Lab3\Lab3\№1.c(47,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Ярослав\Desktop\Новая папка\Lab3\Lab3\№1.c(51,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Lab3.vcxproj -> C:\Users\Ярослав\Desktop\Новая папка\Lab3\x64\Debug\Lab3.exe
